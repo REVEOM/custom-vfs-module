@@ -57,7 +57,7 @@ static void __exit myfs_exit(void) {
 }
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Muhammet");
+MODULE_AUTHOR("REVEOM");
 MODULE_DESCRIPTION("Advanced Virtual File System Kernel Module with Basic Read Capability");
 
 module_init(myfs_init);
